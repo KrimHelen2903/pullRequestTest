@@ -134,12 +134,12 @@ __*-m "описание"*__ добавляет к коммиту коммент�
 
 Конфликты возникают при слиянии двух веток в одну, при этом далжна быть изменена одна и та же строка файла, конфликт выглядит вот так:
 
-
-![conflict](conflict1step.png) 
+![conflict1step](https://github.com/KrimHelen2903/pullRequestTest/assets/146080965/b4059904-30a2-4625-9119-cb6b38c041ca)
  
-![image](mergeconflict.png) 
+![mergeconflict](https://github.com/KrimHelen2903/pullRequestTest/assets/146080965/c46faa98-012a-4c95-a7d3-7737be5523ec)
 
-![слияние](merge2.png)
+![merge2](https://github.com/KrimHelen2903/pullRequestTest/assets/146080965/6f0fba96-00c3-4fba-9d35-7fd8d9b08606)
+
 
 
 
