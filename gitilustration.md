@@ -1,5 +1,4 @@
-![тут должно быть лого](git-logo.png)
-
+![git-logo](https://github.com/KrimHelen2903/pullRequestTest/assets/146080965/efb94093-3c16-4b93-a8d4-669899fe00bf)
 # Инструкция по Git
 
 ### 1. Проверка наличия установленного git
